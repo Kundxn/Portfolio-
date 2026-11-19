@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en" class="dark scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kundan Singh — Full Stack Developer | Cloud &amp; DevOps</title>
+    <meta
+      name="description"
+      content="Portfolio of Kundan Singh, Full Stack Developer &amp; B.E. CSE (Cloud Computing) graduate building fast React, Next.js, Node.js, and Spring Boot apps on AWS and Azure."
+    />
+    <meta name="author" content="Kundan Singh" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kundan Singh — Full Stack Developer | Cloud &amp; DevOps" />
+    <meta
+      property="og:description"
+      content="Builds fast, scalable web apps with React/Next.js, Node.js and Spring Boot, deployed on AWS and Azure."
+    />
+    <meta property="og:image" content="/src/assets/images/og_portfolio_card_1795083588780.jpg" />
+    <meta property="og:site_name" content="Kundan Singh Portfolio" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kundan Singh — Full Stack Developer | Cloud &amp; DevOps" />
+    <meta
+      name="twitter:description"
+      content="Builds fast, scalable web apps with React/Next.js, Node.js and Spring Boot, deployed on AWS and Azure."
+    />
+    <meta name="twitter:image" content="/src/assets/images/og_portfolio_card_1795083588780.jpg" />
+
+    <!-- Fonts: Bricolage Grotesque (Display), Plus Jakarta Sans (Body), JetBrains Mono (Data/Code) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700&family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Initial Theme Hydration (defaults to dark mode, prevents flash) -->
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('ks_theme');
+          if (saved === 'light') {
+            document.documentElement.classList.remove('dark');
+          } else {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (e) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+
+    <!-- Schema.org Person Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Kundan Singh",
+        "jobTitle": "Full Stack Developer",
+        "description": "Full Stack Developer and Cloud & DevOps Engineer (B.E. CSE Cloud Computing) specializing in React, Next.js, Node.js, Spring Boot, AWS, and Azure.",
+        "email": "mailto:kundan55xi@gmail.com",
+        "telephone": "+91-7727932990",
+        "alumniOf": {
+          "@type": "CollegeOrUniversity",
+          "name": "Chandigarh University"
+        },
+        "knowsAbout": [
+          "Full Stack Development",
+          "React",
+          "Next.js",
+          "Node.js",
+          "Spring Boot",
+          "Java",
+          "TypeScript",
+          "AWS",
+          "Microsoft Azure",
+          "Docker",
+          "Kubernetes",
+          "CI/CD"
+        ],
+        "sameAs": [
+          "https://github.com/kundansingh",
+          "https://linkedin.com/in/kundansingh"
+        ]
+      }
+    </script>
+  </head>
+  <body class="bg-[#ECEEF2] text-zinc-900 dark:bg-[#09090B] dark:text-zinc-100 antialiased selection:bg-blue-600/20 selection:text-blue-600 dark:selection:text-blue-400">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

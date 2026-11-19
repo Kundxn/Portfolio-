@@ -1,0 +1,133 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3360 >>
+stream
+BT
+/F2 18 Tf
+1 0 0 1 48 760 Tm
+(KUNDAN SINGH) Tj
+/F2 11 Tf
+1 0 0 1 48 740 Tm
+(Full Stack Developer | Cloud & DevOps) Tj
+/F1 9 Tf
+1 0 0 1 48 724 Tm
+(Email: kundan55xi@gmail.com  |  Phone: +91 7727932990  |  Chandigarh, India) Tj
+/F2 11 Tf
+1 0 0 1 48 704 Tm
+(SUMMARY) Tj
+/F1 9.5 Tf
+1 0 0 1 48 690 Tm
+(B.E. CSE \(Cloud Computing\) graduate building fast, scalable web apps with React/Next.js,) Tj
+/F1 9.5 Tf
+1 0 0 1 48 677 Tm
+(Node.js, and Spring Boot, deployed on AWS and Azure with Docker, Kubernetes, and CI/CD.) Tj
+/F2 11 Tf
+1 0 0 1 48 659 Tm
+(EXPERIENCE) Tj
+/F2 9.5 Tf
+1 0 0 1 48 645 Tm
+(Full Stack Developer - Rabtech Academy \(Remote\) | Jun 2026 - Nov 2026) Tj
+/F1 9 Tf
+1 0 0 1 48 632 Tm
+(- Built responsive layouts across mobile, tablet, and desktop using modern CSS, Grid, and Flexbox.) Tj
+/F1 9 Tf
+1 0 0 1 48 620 Tm
+(- Integrated RESTful APIs with asynchronous JavaScript \(ES6+\) to fetch live data and manage state.) Tj
+/F1 9 Tf
+1 0 0 1 48 608 Tm
+(- Engineered a production-ready web capstone and deployed it via Vercel, Netlify, or GitHub Pages.) Tj
+/F1 9 Tf
+1 0 0 1 48 596 Tm
+(- Structured modular UI components and maintained Git workflows with cross-browser accessibility checks.) Tj
+/F2 9.5 Tf
+1 0 0 1 48 580 Tm
+(Full Stack Developer - Rightway Auto Delivery Ltd. \(Remote\) | Oct 2025 - Apr 2026) Tj
+/F1 9 Tf
+1 0 0 1 48 567 Tm
+(- Built production Next.js + Tailwind CSS site with custom scheduling \(+60% online bookings\).) Tj
+/F1 9 Tf
+1 0 0 1 48 555 Tm
+(- Optimized web architecture and SEO, reducing LCP from 5s to under 1s \(100+ monthly clicks\).) Tj
+/F1 9 Tf
+1 0 0 1 48 543 Tm
+(- Engineered React + Node.js admin dashboard over relational DB \(-70% manual processing\).) Tj
+/F1 9 Tf
+1 0 0 1 48 531 Tm
+(- Automated CI/CD pipelines for zero-downtime deployments, sustaining 99.9% uptime.) Tj
+/F2 11 Tf
+1 0 0 1 48 513 Tm
+(PROJECTS) Tj
+/F2 9.5 Tf
+1 0 0 1 48 499 Tm
+(RightWay Auto Delivery \(Next.js, Tailwind CSS, Node.js, Relational DB\)) Tj
+/F1 9 Tf
+1 0 0 1 48 487 Tm
+(Production e-commerce platform with 99/100 Lighthouse score, LCP <1s, and admin console.) Tj
+/F2 9.5 Tf
+1 0 0 1 48 472 Tm
+(Phoenix Compiler \(Spring Boot, Java, Maven, React, Docker\)) Tj
+/F1 9 Tf
+1 0 0 1 48 460 Tm
+(Online IDE supporting 12+ languages in isolated Docker sandboxes with global error handling.) Tj
+/F2 11 Tf
+1 0 0 1 48 442 Tm
+(TECHNICAL SKILLS) Tj
+/F1 9 Tf
+1 0 0 1 48 428 Tm
+(Languages: Java, JavaScript \(ES6+\), Python, SQL) Tj
+/F1 9 Tf
+1 0 0 1 48 416 Tm
+(Frontend: HTML5, CSS3, React, Next.js, Tailwind CSS, Shadcn UI) Tj
+/F1 9 Tf
+1 0 0 1 48 404 Tm
+(Backend & DB: Node.js, Express.js, Spring Boot, REST, WebSockets, JWT, Bun, MongoDB, PostgreSQL, MySQL) Tj
+/F1 9 Tf
+1 0 0 1 48 392 Tm
+(Cloud & DevOps: AWS \(EC2, S3\), Azure, Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD, Linux) Tj
+/F2 11 Tf
+1 0 0 1 48 374 Tm
+(CERTIFICATIONS & EDUCATION) Tj
+/F1 9 Tf
+1 0 0 1 48 360 Tm
+(- AWS Certified AI Practitioner \(AIF-C01\) | Microsoft Certified: Azure Fundamentals \(AZ-900\)) Tj
+/F1 9 Tf
+1 0 0 1 48 348 Tm
+(- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional) Tj
+/F1 9 Tf
+1 0 0 1 48 336 Tm
+(- Cloud Computing Concepts \(University of Illinois\) | Scientific Computing with Python \(freeCodeCamp\)) Tj
+/F2 9.5 Tf
+1 0 0 1 48 322 Tm
+(B.E. in Computer Science & Engineering \(Cloud Computing\) - Chandigarh University \(2022 - 2026\)) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003663 00000 n 
+0000003733 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3808
+%%EOF
